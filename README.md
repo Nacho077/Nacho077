@@ -3,7 +3,7 @@
 ```js
 const Ignacio = {
   fullName: 'Ignacio Gimenez',
-  nickName: 'Nacho'
+  nickName: 'Nacho',
   code: ['JavaScript', 'HTML', 'CSS'],
   tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL']
 }

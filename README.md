@@ -15,8 +15,8 @@ You can see our progress [here](https://ecommerce-ft06-g08.herokuapp.com/)
 ---------
 
 ## Some projects
-
-[To Do List](https://nacho077.github.io/ToDoList/)
+### [To Do List](https://nacho077.github.io/ToDoList/)
+[<img src="img/ToDoList.png">](https://nacho077.github.io/ToDoList/)
 
 ## You can contact me in
 - [Linkedin](https://www.linkedin.com/in/ignacio-gimenez-305799184/)

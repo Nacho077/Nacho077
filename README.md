@@ -4,8 +4,8 @@
 const Ignacio = {
   fullName: 'Ignacio Gimenez',
   nickName: 'Nacho',
-  code: ['JavaScript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux', 'Express', 'Node', 'postgreSQL']
+  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
+  tools: ['React', 'React Native', 'Redux', 'Express', 'Node', 'postgreSQL', 'Firebase']
 }
 ```
 -------

@@ -12,8 +12,10 @@ const Ignacio = {
 - 💻 I’m currently working on [ITCI](https://www.linkedin.com/company/hi-itci/) 
 - 🤓 I’m currently learning Java 
 
-<div style="display: flex;
-  justify-content: space-around;"
+<!-- <div style="display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 200px;"
 >
   <a href="https://www.linkedin.com/in/ignacio-gimenez-305799184/" target="_blank">
     <div
@@ -73,8 +75,13 @@ const Ignacio = {
       >Email</h2>
     </div>
   </a>
-</div>
+</div> -->
 
+[<img src="assets/logos/linkedinLogo.png"/>](https://www.linkedin.com/in/ignacio-gimenez-305799184/)
+[<img src="assets/logos/githublogo.png"/>](https://github.com/Nacho077)
+<a href="emailto:ignaciogimenez70@gmail.com" target="_blank">
+  <img src="assets/logos/gmaillogo.png"/>
+</a>
 
 -------
 

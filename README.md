@@ -8,8 +8,7 @@ const Ignacio = {
   tools: ['React', 'React Native', 'Redux', 'Express', 'Node', 'postgreSQL', 'Firebase']
 }
 ```
-
-- 💻 I’m currently working on [ITCI](https://www.linkedin.com/company/hi-itci/) 
+ 
 - 🤓 I’m currently learning Java 
 
 [<img src="assets/logos/linkedinLogo.png"/>](https://www.linkedin.com/in/ignacio-gimenez-305799184/)

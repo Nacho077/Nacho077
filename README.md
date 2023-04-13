@@ -29,7 +29,7 @@ Complete E-commerce with React, Redux, Express and ProstgreSQL
 App created with React for practice TypeScript with pokemons
 
 ## [Henry World]()
-[<img src="assets/img/Henry-World-App.jpg" style="height: 300px;"/>]()
+[<img src="assets/img/Henry-World-App.jpg" style="height: 300px;"/>]()<br/>
 App created with React Native using Firebase from database
 
 ## [Mercado Henry]()
